@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER"
+      fx:controller="com.ticTacToeGame.MainViewController"
+      xmlns:fx="http://javafx.com/fxml"
+      spacing="20.0">
+
+    <padding>
+        <Insets top="20.0"
+                right="20.0"
+                bottom="20.0"
+                left="20.0"/>
+    </padding>
+</VBox>
