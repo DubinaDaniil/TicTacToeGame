@@ -1,4 +1,4 @@
-module com.tictactoegame.tictactoegame {
+module com.ticTacToeGame {
     requires javafx.controls;
     requires javafx.fxml;
 
